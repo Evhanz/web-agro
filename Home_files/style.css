@@ -301,7 +301,7 @@ header {
 	z-index: 11;
 	background: #ffffff;
 	border-top: 5px solid #ff903f;
-	background: url(../img/bg_pic1.jpg) center 0 repeat;
+	background: url(../img/bg_1.jpg) center 0 repeat;
 }
 header .title {
 	color: #ffffff;
@@ -314,7 +314,7 @@ header .title {
 	margin-bottom: 135px;
 }
 header .title span {
-	color: #ff903f;
+	color: #ff4900;
 }
 header .title::after {
  position: absolute;
